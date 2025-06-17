@@ -2,13 +2,13 @@
 
 API para búsqueda de recetas en español con información nutricional, conectada a TheMealDB.
 
-## 🚀 Requisitos Previos
+##  Requisitos Previos
 
 - Java JDK 17+
 - Gradle 8.0+
 - PostgreSQL (opcional para futuras versiones)
 
-## ⚙️ Configuración Inicial
+## Configuración Inicial
 
 1. Clona el repositorio:
 ```bash
